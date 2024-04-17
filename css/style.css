@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Myriad pro, regular';
-    src: url(./font/Myriad\ Pro\ Regular.ttf);
+    src: url(../storage/font/Myriad\ Pro\ Regular.ttf);
 }
 
 body{
     display: flex;
     justify-content: center;    
     align-items: center;
-    background-image: url(./imagenes/pexels-pixabay-159400.png);
+    background-image: url(../storage/img/pexels-pixabay-159400.png);
     background-repeat: no-repeat;
     background-color: black;
     background-size: cover;
